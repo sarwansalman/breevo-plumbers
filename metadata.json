@@ -1,0 +1,6 @@
+{
+  "name": "Breevo Plumbers",
+  "description": "Premium professional plumbing services in Toronto and the Greater Toronto Area. Commercial and luxury residential plumbing installations, emergency services, and custom drainage design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
